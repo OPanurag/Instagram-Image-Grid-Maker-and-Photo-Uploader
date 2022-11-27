@@ -11,7 +11,7 @@ passw = "tanujnotes123"
 bot.login(username=user, password=passw)
 
 # Tile image information and command
-filename = 'img1'
+filename = 'launch'
 extension = '.jpeg'
 img = spi.split(filename + extension, 6, 3)
 
